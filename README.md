@@ -16,7 +16,7 @@ Then, modify style by updating **cv/static/style.css**
 ### Generate PDF
 Finally, run flask local server:
 ```bash
-$ export FLASK_APP=
+$ export FLASK_APP=cv
 $ export FLASK_ENV=development
 $ flask run
 ```
