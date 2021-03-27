@@ -7,6 +7,9 @@ Simple flask app to generate my resume from a html template.
 apt-get install wkhtmltopdf
 ```
 
+Then create a virtual environnement and install packages in **requirements.txt**
+
+
 ### Populate template
 First, populate **cv/templates/cv.html**
 
