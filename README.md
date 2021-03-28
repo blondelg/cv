@@ -2,12 +2,14 @@
 Simple flask app to generate my resume from a html template.
 
 ### Dependencies:
-[pdfkit](https://github.com/JazzCore/python-pdfkit) needs to have **wkhtmltopdf** installed:
+[pdfkit](https://github.com/JazzCore/python-pdfkit) needs to
+have **wkhtmltopdf** installed:
 ```bash
 apt-get install wkhtmltopdf
 ```
 
-Then create a virtual environnement and install packages in **requirements.txt**
+Then create a virtual environnement and install packages
+in **requirements.txt**
 
 
 ### Populate template
